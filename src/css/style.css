@@ -32,13 +32,15 @@ nav > ul > li {
 }
 
 nav > ul > li > a {
-    color: black;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 1.25em;
 }
-
+h2 {
+    color:rgb(44, 164, 194);
+}
 #hero {
-    color: black;
+    color: rgb(0, 0, 0);
     background: yellow;
     display: flex;
     align-items: center;
@@ -56,11 +58,12 @@ nav > ul > li > a {
 
 #items-container {
     display: grid;
-    grid-template: repeat(10, 200px) / repeat(5, 300px);
+    overflow: auto;
+    grid-template: repeat(12, 200px) / repeat(4, 300px);
 }
 
 #items-container > div {
-    color: yellow;
+    color: rgb(44, 164, 194);
 }
 
 .item {

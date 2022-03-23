@@ -1,4 +1,5 @@
 # auction-thing
- _Marek Charvát_
- _Tomáš Plánský_
- _Martin Fryč_
+__Creators__
+ - Marek Charvát_
+ - Tomáš Plánský_
+ - Martin Fryč_

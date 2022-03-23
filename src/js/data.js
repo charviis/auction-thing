@@ -3,48 +3,48 @@ const DATA = {
         "name": "Polární Ježek",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/polarni-jezek.png"
+        "image": "../img/img-1.jpg"
     },
     "item-2": {
         "name": "Terénnní Pavouk",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/terenni-pavouk.png"
+        "image": "../img/img-1.jpg"
     },
     "item-3": {
         "name": "Nabouraný Jednorožec",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/nabourany-jednorozec.png"
+        "image": "../img/img-1.jpg"
     },
     "item-4": {
         "name": "Utopené Ryby",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/utopene-ryby.png"
+        "image": "../img/img-1.jpg"
     },
     "item-5": {
         "name": "Létající Pavouci",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/letajici-pavouci.png"
+        "image": "../img/img-1.jpg"
     },
     "item-6": {
         "name": "Suchozemský Vodník",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/suchozemsky-vodnik.png"
+        "image": "../img/img-1.jpg"
     },
     "item-8": {
         "name": "Kapesní Žebřík",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/kapesni_zebrik.png"
+        "image": "../img/img-1.jpg"
     },
     "item-9": {
         "name": "Agent s teplou vodou",
         "description": "Lorem ipsum dolor sit amet consectetur",
         "author": "Author",
-        "image": "../img/agent_s_teplou_vodou.png"
+        "image": "../img/img-1.jpg"
     }
 } 

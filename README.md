@@ -1,5 +1,6 @@
 # auction-thing
-___Creators___
- - Marek Charvát
- - Tomáš Plánský
- - Martin Fryč
+
+## Creators
+ - Marek Charvát - html, css
+ - Tomáš Plánský - html, js
+ - Martin Fryč - css

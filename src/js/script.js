@@ -14,11 +14,12 @@ function addItem(data) {
     itemElement = document.createElement("div");
     itemElement.className = "item";
     itemElement.innerHTML = `
-        <img class="item-image" src="${data["image"]}">
+        <img class="item-image" src="${data["image"]}"></img>
+        <div>
         <h3 class="item-name">${data["name"]}</h3>
         <p class="item-description">${data["description"]}</p>
         <p class="item-author">${data["author"]}</p>
-        </img>
+        </div>
     `
     ITEMS_CONTAINER.appendChild(itemElement);
 }

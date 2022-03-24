@@ -12,7 +12,7 @@ html {
 body {
     height: 100vh;
     font-family: 'Poppins', sans-serif;
-    background: black;
+    background: dimgray;
     color: white;
 }
 
@@ -59,18 +59,30 @@ h2 {
 #items-container {
     display: grid;
     overflow: auto;
-    grid-template: repeat(12, 200px) / repeat(4, 300px);
+    grid-template: repeat(12, 550px) / repeat(4, 400px);
 }
 
 #items-container > div {
-    color: rgb(44, 164, 194);
+    color: white;
 }
 
 .item {
+    background: rgba(0, 0, 0, 0.3);
     border-radius: 5px;
     overflow: hidden;
     cursor: pointer;
     margin: 0.5em;
+}
+
+.item > div {
+    padding: 1em;
+}
+
+.item-image {
+    width: 400px;
+    height: 400px;
+    float: left;
+    object-fit: cover;
 }
 
 .item-author {
